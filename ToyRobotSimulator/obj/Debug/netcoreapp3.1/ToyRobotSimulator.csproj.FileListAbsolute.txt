@@ -1,0 +1,16 @@
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.csprojAssemblyReference.cache
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.AssemblyInfoInputs.cache
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.AssemblyInfo.cs
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.csproj.CoreCompileInputs.cache
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotSimulator.exe
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotSimulator.deps.json
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotSimulator.runtimeconfig.json
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotSimulator.runtimeconfig.dev.json
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotSimulator.dll
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotSimulator.pdb
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.dll
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.pdb
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.genruntimeconfig.cache
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotEngine.dll
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netcoreapp3.1\ToyRobotEngine.pdb
+C:\Projects\Learning\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netcoreapp3.1\ToyRobotSimulator.csproj.CopyComplete

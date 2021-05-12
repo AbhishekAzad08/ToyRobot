@@ -1,0 +1,12 @@
+ToyRobotEngine is the class library which handles the commands.
+ToyRobotSimulator is the calling program(Console Application). 
+ToyRobotEngine.Tests is the unit test project.
+
+Target Framework: .Net Core 3.1
+
+To Debug:
+
+Open the solution in Visual Studio and start debugging. Enter the commands to be tested in the console.
+
+
+
