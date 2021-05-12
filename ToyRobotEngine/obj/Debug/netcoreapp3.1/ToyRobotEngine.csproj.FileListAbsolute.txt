@@ -1,9 +1,0 @@
-C:\Projects\Learning\ToyRobotSimulator\ToyRobotEngine\bin\Debug\netcoreapp3.1\ToyRobotEngine.deps.json
-C:\Projects\Learning\ToyRobotSimulator\ToyRobotEngine\bin\Debug\netcoreapp3.1\ToyRobotEngine.dll
-C:\Projects\Learning\ToyRobotSimulator\ToyRobotEngine\bin\Debug\netcoreapp3.1\ToyRobotEngine.pdb
-C:\Projects\Learning\ToyRobotSimulator\ToyRobotEngine\obj\Debug\netcoreapp3.1\ToyRobotEngine.AssemblyInfoInputs.cache
-C:\Projects\Learning\ToyRobotSimulator\ToyRobotEngine\obj\Debug\netcoreapp3.1\ToyRobotEngine.AssemblyInfo.cs
-C:\Projects\Learning\ToyRobotSimulator\ToyRobotEngine\obj\Debug\netcoreapp3.1\ToyRobotEngine.csproj.CoreCompileInputs.cache
-C:\Projects\Learning\ToyRobotSimulator\ToyRobotEngine\obj\Debug\netcoreapp3.1\ToyRobotEngine.dll
-C:\Projects\Learning\ToyRobotSimulator\ToyRobotEngine\obj\Debug\netcoreapp3.1\ToyRobotEngine.pdb
-C:\Projects\Learning\ToyRobotSimulator\ToyRobotEngine\obj\Debug\netcoreapp3.1\ToyRobotEngine.csprojAssemblyReference.cache
